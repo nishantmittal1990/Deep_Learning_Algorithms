@@ -56,5 +56,5 @@ If you get stuck, feel free to look at solution.py. But give it a try first!
 Then, as before, click on test run to graph the solution that the perceptron algorithm gives you. It'll actually draw a set of dotted lines, that show how the algorithm approaches to the best solution, given by the black solid line. This will also show a plot of the error, and you can see how it decreases as we get closer and closer to an optimal solution.
 
 
-![Output](/img/graph_output.PNG)
-![Output](/img/graph.PNG)
+![Output](/graph_output.PNG)
+![Output](/graph.PNG)
